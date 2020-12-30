@@ -26,7 +26,7 @@ void resout(){ // The function that turn all LEDs off
     digitalWrite(pins[i], 0);
   } 
 }
-// The part below isn't a part of the function
+// The staff below this string isn't a part of the function
 void setup()
 {
   // Initialise all LED pins as outputs
